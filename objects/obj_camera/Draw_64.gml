@@ -1,0 +1,1 @@
+draw_surface_ext(application_surface,view_xport[view_current],view_yport[view_current],1,1,0,c_white,1);

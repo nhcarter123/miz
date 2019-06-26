@@ -1,0 +1,1 @@
+index = random(10);
